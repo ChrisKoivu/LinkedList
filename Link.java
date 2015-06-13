@@ -6,7 +6,7 @@ package project3ckoivu;
  * @author Chris Koivu
  */
 public class Link {
-  public State iData; // data item  
+  public State sData; // data item  
   public Link next; // next link in list
   public Link previous; // previous link in list
   
